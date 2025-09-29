@@ -28,18 +28,18 @@ body {
 ### Importing
 
 ```css
-@import "~@bu0nq/webfont.ubuntu-mono/ubuntu-mono.css";
-@import "~@bu0nq/webfont.ubuntu-mono/ubuntu-mono-italic.css";
-@import "~@bu0nq/webfont.ubuntu-mono/ubuntu-mono-normal.css";
+@import "@bu0nq/webfont.ubuntu-mono/ubuntu-mono.css";
+@import "@bu0nq/webfont.ubuntu-mono/ubuntu-mono-italic.css";
+@import "@bu0nq/webfont.ubuntu-mono/ubuntu-mono-normal.css";
 ```
 
 To import specific fonts, you can use:
 
 ```css
-@import "~@bu0nq/webfont.ubuntu-mono/css/ubuntu-mono-400-italic.css";
-@import "~@bu0nq/webfont.ubuntu-mono/css/ubuntu-mono-400-normal.css";
-@import "~@bu0nq/webfont.ubuntu-mono/css/ubuntu-mono-700-italic.css";
-@import "~@bu0nq/webfont.ubuntu-mono/css/ubuntu-mono-700-normal.css";
+@import "@bu0nq/webfont.ubuntu-mono/css/ubuntu-mono-400-italic.css";
+@import "@bu0nq/webfont.ubuntu-mono/css/ubuntu-mono-400-normal.css";
+@import "@bu0nq/webfont.ubuntu-mono/css/ubuntu-mono-700-italic.css";
+@import "@bu0nq/webfont.ubuntu-mono/css/ubuntu-mono-700-normal.css";
 ```
 
 ## Usage (LESS)
@@ -55,18 +55,18 @@ body {
 ### Importing
 
 ```less
-@import "~@bu0nq/webfont.ubuntu-mono/ubuntu-mono";
-@import "~@bu0nq/webfont.ubuntu-mono/ubuntu-mono-italic";
-@import "~@bu0nq/webfont.ubuntu-mono/ubuntu-mono-normal";
+@import "@bu0nq/webfont.ubuntu-mono/ubuntu-mono";
+@import "@bu0nq/webfont.ubuntu-mono/ubuntu-mono-italic";
+@import "@bu0nq/webfont.ubuntu-mono/ubuntu-mono-normal";
 ```
 
 To import specific fonts, you can use:
 
 ```less
-@import "~@bu0nq/webfont.ubuntu-mono/less/ubuntu-mono-400-italic";
-@import "~@bu0nq/webfont.ubuntu-mono/less/ubuntu-mono-400-normal";
-@import "~@bu0nq/webfont.ubuntu-mono/less/ubuntu-mono-700-italic";
-@import "~@bu0nq/webfont.ubuntu-mono/less/ubuntu-mono-700-normal";
+@import "@bu0nq/webfont.ubuntu-mono/less/ubuntu-mono-400-italic";
+@import "@bu0nq/webfont.ubuntu-mono/less/ubuntu-mono-400-normal";
+@import "@bu0nq/webfont.ubuntu-mono/less/ubuntu-mono-700-italic";
+@import "@bu0nq/webfont.ubuntu-mono/less/ubuntu-mono-700-normal";
 ```
 
 ## Usage (SCSS)
@@ -82,18 +82,18 @@ body {
 ### Importing
 
 ```scss
-@use "~@bu0nq/webfont.ubuntu-mono/ubuntu-mono";
-@use "~@bu0nq/webfont.ubuntu-mono/ubuntu-mono-italic";
-@use "~@bu0nq/webfont.ubuntu-mono/ubuntu-mono-normal";
+@use "@bu0nq/webfont.ubuntu-mono/ubuntu-mono";
+@use "@bu0nq/webfont.ubuntu-mono/ubuntu-mono-italic";
+@use "@bu0nq/webfont.ubuntu-mono/ubuntu-mono-normal";
 ```
 
 To import specific fonts, you can use:
 
 ```scss
-@use "~@bu0nq/webfont.ubuntu-mono/scss/ubuntu-mono-400-italic";
-@use "~@bu0nq/webfont.ubuntu-mono/scss/ubuntu-mono-400-normal";
-@use "~@bu0nq/webfont.ubuntu-mono/scss/ubuntu-mono-700-italic";
-@use "~@bu0nq/webfont.ubuntu-mono/scss/ubuntu-mono-700-normal";
+@use "@bu0nq/webfont.ubuntu-mono/scss/ubuntu-mono-400-italic";
+@use "@bu0nq/webfont.ubuntu-mono/scss/ubuntu-mono-400-normal";
+@use "@bu0nq/webfont.ubuntu-mono/scss/ubuntu-mono-700-italic";
+@use "@bu0nq/webfont.ubuntu-mono/scss/ubuntu-mono-700-normal";
 ```
 
 ## Licensing
